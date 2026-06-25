@@ -22,7 +22,7 @@ export default function Hero() {
       y: 0, 
       filter: "blur(0px)",
       scale: 1,
-      transition: { duration: 0.8, ease: "easeOut" }
+      transition: { duration: 0.8 }
     },
   };
 
